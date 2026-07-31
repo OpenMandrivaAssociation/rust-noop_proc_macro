@@ -5,8 +5,8 @@
 %global crate noop_proc_macro
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        2%{?dist}
+Version:        0.3.0
+Release:        1%{?dist}
 Summary:        No-op proc_macro, literally does nothing
 
 # Upstream license specification: MIT
